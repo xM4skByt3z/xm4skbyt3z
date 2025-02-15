@@ -7,10 +7,7 @@
 
 I'm a passionate offensive security specialist focused on **Penetration Testing**, **Red Teaming**, and **Vulnerability Research**. I build and break systems to uncover vulnerabilities, ensuring robust security for organizations. Every project is approached methodically, from reconnaissance to exploitation, delivering detailed and actionable insights.
 
-![OSCP](https://img.shields.io/badge/OSCP-Certified-orange)  
-![CCNA](https://img.shields.io/badge/CCNA-Certified-blue)  
-![CVE](https://img.shields.io/badge/CVE-1%20Found-red)  
-![FOLLOW](https://img.shields.io/badge/FOLLOW-1K-brightgreen)  
+![CVE](https://img.shields.io/badge/CVE-1%20Found-red) ![Exploits](https://img.shields.io/badge/Exploits-Custom%20Made-blue) ![Pentest](https://img.shields.io/badge/Pentest-Web%20%26%20Network-brightgreen) ![Followers](https://img.shields.io/badge/FOLLOW-1K-yellow)  
 
 ---
 
