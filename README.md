@@ -12,13 +12,6 @@ I'm a passionate offensive security specialist focused on **Penetration Testing*
 
 ---
 
-## 🛠️ Languages & Tools
-
-- **Pentesting**: Burp Suite, Nmap, Metasploit, Cobalt Strike  
-- **Languages**: Python, Bash, Assembly, C  
-- **Networking**: IDS/IPS, EDR, Firewalls  
-- **OS**: Linux, Windows, Windows Server  
-
 ---
 
 ## 📫 Connect
