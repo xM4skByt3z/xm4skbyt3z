@@ -1,16 +1,20 @@
-# 🛡️ Offensive Security
+# 🛡️ Pentester | Red Team | Offensive Security
 
 ![Banner](https://github.com/xM4skByt3z/Gifs/blob/main/HackThePlanet.gif)
 
 ## 🛠️ Skills
-- **Pen Testing**: Web, Network, Cloud  
-- **Red Teaming**: Adversary Simulation  
-- **Tools**: Metasploit, Burp Suite, Nmap  
-- **Languages**: Python, Bash, PowerShell  
+- **Pentesting**: Web Apps, Network Infrastructure  
+- **Vulnerability Research**: 1x CVE  
+- **Methodologies**: OWASP, PTES  
+- **Exploitation**: SSTI, XSS, XXE, SQLi, LFI/RFI  
+- **Tools**: Burp Suite, Nmap, Metasploit, Custom Exploits  
+- **Languages**: Python, Bash, Assembly, C  
+- **OS**: Linux, Windows, Windows Server  
+- **Networking**: IDS/IPS, EDR, Firewalls, CCNA  
 
 ## 🏆 Certs
 ![OSCP](https://img.shields.io/badge/OSCP-Offensive_Security-orange)  
-![CEH](https://img.shields.io/badge/CEH-Ethical_Hacker-blue)  
+![CCNA](https://img.shields.io/badge/CCNA-Cisco-blue)  
 
 ## 📫 Connect
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yourprofile/)  
