@@ -21,4 +21,4 @@ I'm a passionate offensive security specialist focused on **Penetration Testing*
 
 ---
 
-**Hack Responsibly.**
+**"Perfect security is an illusion, but exploitation is real."**
