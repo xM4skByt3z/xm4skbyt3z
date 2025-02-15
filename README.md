@@ -7,7 +7,7 @@
 
 I'm a passionate offensive security specialist focused on **Penetration Testing**, **Red Teaming**, and **Vulnerability Research**. I build and break systems to uncover vulnerabilities, ensuring robust security for organizations. Every project is approached methodically, from reconnaissance to exploitation, delivering detailed and actionable insights.
 
-![CVE](https://img.shields.io/badge/CVE-1%20Found-red) ![Exploits](https://img.shields.io/badge/Exploits-Custom%20Made-blue) ![Pentest](https://img.shields.io/badge/Pentest-Web%20%26%20Network-brightgreen) ![Buffer Overflow](https://img.shields.io/badge/Buffer%20Overflow-Exploited-9cf) ![Shellcoding](https://img.shields.io/badge/Shellcoding-Advanced-ff69b4) ![PrivEsc](https://img.shields.io/badge/Privilege%20Escalation-Expert-orange) ![FOLLOW](https://img.shields.io/badge/FOLLOW-1K-yellow)  
+![CVE](https://img.shields.io/badge/CVE-1%20Found-000000?style=flat&logoColor=white) ![Exploits](https://img.shields.io/badge/Exploits-Custom%20Made-808080?style=flat&logoColor=white) ![Pentest](https://img.shields.io/badge/Pentest-Web%20%26%20Network-000000?style=flat&logoColor=white) ![Buffer Overflow](https://img.shields.io/badge/Buffer%20Overflow-Exploited-808080?style=flat&logoColor=white) ![Shellcoding](https://img.shields.io/badge/Shellcoding-Advanced-000000?style=flat&logoColor=white) ![PrivEsc](https://img.shields.io/badge/Privilege%20Escalation-Expert-808080?style=flat&logoColor=white) ![FOLLOW](https://img.shields.io/badge/FOLLOW-1K-000000?style=flat&logoColor=white)  
 
 ---
 
