@@ -14,7 +14,7 @@ I'm a passionate offensive security specialist focused on **Penetration Testing*
 
 ## 📫 Contact
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-808080?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yourprofile/) [![Twitter](https://img.shields.io/badge/Twitter-808080?style=flat&logo=twitter&logoColor=white)](https://twitter.com/yourhandle) [![Email](https://img.shields.io/badge/Email-808080?style=flat&logo=gmail&logoColor=white)](mailto:youremail@example.com)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-808080?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/deivid-kelven-5a1308287/) [![Twitter](https://img.shields.io/badge/Twitter-808080?style=flat&logo=twitter&logoColor=white)](https://twitter.com/?) [![Email](https://img.shields.io/badge/Email-808080?style=flat&logo=gmail&logoColor=white)](mailto:contato.deividkelven@gmail.com)  
 
 ---
 
