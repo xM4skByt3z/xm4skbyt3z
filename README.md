@@ -1,9 +1,9 @@
 #       ☠️ <span style="color:   #32CD32;">  01001111 01010111 01001110 01000101 01000100</span>
 ![Banner](https://github.com/xM4skByt3z/Gifs/blob/main/HackThePlanet.gif)
 # xM4skByt3z
+ ![Arrexel](https://www.hackthebox.eu/badge/image/2178296)
 
 <img src="https://tryhackme-badges.s3.amazonaws.com/xM4skByt3z.png" alt="Your Image Badge" />
- ![Arrexel](https://www.hackthebox.eu/badge/image/2178296)
 
 **Offensive Security Specialist | Pentester | Red Teamer**
 
