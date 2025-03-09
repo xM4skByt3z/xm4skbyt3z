@@ -5,6 +5,7 @@
 
 <img src="https://tryhackme-badges.s3.amazonaws.com/xM4skByt3z.png" alt="Your Image Badge" />
 [![HackTheBox](upload://tdrn81x2t5rIC7vYU6EBi3IxDHJ.png)](https://app.hackthebox.com/profile/4477)
+
 **Offensive Security Specialist | Pentester | Red Teamer**
 
 I'm a passionate offensive security specialist focused on **Penetration Testing**, **Red Teaming**, and **Vulnerability Research**. I build and break systems to uncover vulnerabilities, ensuring robust security for organizations. Every project is approached methodically, from reconnaissance to exploitation, delivering detailed and actionable insights.
