@@ -3,7 +3,7 @@
 # xM4skByt3z
 ## 🚀 TryHackMe Badge
 
-![TryHackMe Badge](https://tryhackme-badges.s3.amazonaws.com/2081945.png)
+<img src="https://tryhackme-badges.s3.amazonaws.com/xM4skByt3z.png" alt="Your Image Badge" />
 <div align="center">
   <iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=2081945" style="border:none; width:300px; height:150px;"></iframe>
 </div>
