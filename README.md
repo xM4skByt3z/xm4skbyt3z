@@ -3,7 +3,7 @@
 # xM4skByt3z
 
 <img src="https://tryhackme-badges.s3.amazonaws.com/xM4skByt3z.png" alt="Your Image Badge" />
- ![MeuPerfil](https://www.hackthebox.eu/badge/image/2178296)
+ ![Arrexel](https://www.hackthebox.eu/badge/image/2178296)
 
 **Offensive Security Specialist | Pentester | Red Teamer**
 
